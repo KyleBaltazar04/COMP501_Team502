@@ -46,3 +46,26 @@ body {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
   }
+
+  body {
+    background-color: #ebfbfc !important;
+  }
+
+  .imgtext {
+    text-align: center;
+    top: 30%;
+    left: 90%;
+    transform: translate(0%, -700%);
+    color: white;
+  }
+
+  h1 {
+    font-size: 50px !important;
+  }
+
+  .content {
+    padding-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+  }
