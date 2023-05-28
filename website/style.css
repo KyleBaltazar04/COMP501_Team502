@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+
 body {
     font-family: "Lato", sans-serif;
   }
@@ -23,6 +27,7 @@ body {
     color: #fdfdfd;
     display: block;
     transition: 0.3s;
+    font-family: 'Pangolin', cursive;
   }
   
   .sidenav a:hover {
@@ -60,8 +65,15 @@ body {
   }
 
   h1 {
-    font-size: 50px !important;
-    color: rgb(247, 180, 167)
+    font-size: 55px !important;
+    color: rgb(247, 180, 167);
+    font-family: 'Pangolin', cursive;
+  }
+
+  h2 {
+    font-size: 35px !important;
+    color: #33548b;
+    font-family: 'Pangolin', cursive;
   }
 
   .content {
@@ -75,5 +87,15 @@ body {
   table {
     text-align: center;
     margin-right: 20px;
+  }
+
+  th a {
+    color: #33548b;
+    text-decoration: underline;
+  }
+
+  tr {
+    color:#33548b;
+    font-size: 20px;  
   }
 
