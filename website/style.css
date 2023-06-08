@@ -22,7 +22,7 @@ body {
     padding: 8px 8px 8px 32px;
     padding-bottom: 30px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     color: #fdfdfd;
     display: block;
     transition: 0.3s;
@@ -42,7 +42,7 @@ body {
   }
 
   .dropdown-links a {
-    font-size: 20px;
+    font-size: 15px;
     color: #f0fbfc;
   }
   
@@ -112,3 +112,18 @@ body {
     text-decoration: underline;
   }
 
+  .reference {
+    text-indent: -36px; 
+    text-align: left;
+    padding-left:36px;
+  }
+
+  .reference p {
+    margin-top: 30px;
+    padding-right: 10px;
+  }
+
+
+p {
+  font-size: 18px;
+}
